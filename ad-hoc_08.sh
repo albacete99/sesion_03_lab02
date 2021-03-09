@@ -1,0 +1,1 @@
+ansible master -m copy -a "src=/usr/bin/hostname dest=/tmp"

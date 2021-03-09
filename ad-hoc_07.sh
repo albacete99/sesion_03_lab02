@@ -1,0 +1,1 @@
+ansible all -m yum -a "name=vim state=installed"

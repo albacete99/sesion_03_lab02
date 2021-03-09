@@ -1,0 +1,1 @@
+ansible nodos -m user -a "name=ansible2 comment='Usuario Curso' uid=9999"
